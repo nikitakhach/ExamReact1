@@ -1,5 +1,4 @@
 import Header from "./components/Header";
-import RegistrationForm from "./components/RegistrationForm";
 import Footer from "./components/Footer";
 import BookList from "./components/BookList";
 import Counter from "./components/Counter";
